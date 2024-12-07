@@ -11,6 +11,17 @@
     "model" : "Biospeed Future"
   },
   {
+    "brand" : "361 Degrees",
+    "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ],
+    "model" : "Prova"
+  },
+  {
     "approvedFor" : [
       "Road & RW",
       "Cross"
