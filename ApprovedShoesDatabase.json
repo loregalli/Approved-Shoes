@@ -1,5 +1,16 @@
 [
   {
+    "brand" : "Nick",
+    "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ],
+    "model" : "Ciao Nick"
+  },
+  {
     "brand" : "361 Degrees",
     "approvedFor" : [
       "Track",
