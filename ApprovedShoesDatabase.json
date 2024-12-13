@@ -7405,6 +7405,14 @@
     ]
   },
   {
+    "model" : "FeiYing PB 5.0 (Approved for use after 11 JAN 2025)",
+    "brand" : "Zhongqiao Sports_Qiaodan",
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ]
+  },
+  {
     "brand" : "Zhongqiao Sports_Qiaodan",
     "model" : "FeiYing Plaid",
     "approvedFor" : [
