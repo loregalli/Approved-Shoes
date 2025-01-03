@@ -52,7 +52,7 @@
   },
   {
     "brand" : "361 Degrees",
-    "model" : "Furious 2 (Valid: 26\/06\/24 - 25\/06\/25)",
+    "model" : "Furious 2 (VALID: 26\/06\/24 - 25\/06\/25)",
     "approvedFor" : [
       "Road & RW",
       "Cross"
@@ -175,7 +175,7 @@
   },
   {
     "brand" : "Adidas",
-    "model" : "Adizero Adios Pro Evo 2 VALID: 29 NOV 2024 - 28 NOV 2025",
+    "model" : "Adizero Adios Pro Evo 2 (VALID: 29 NOV 2024 - 28 NOV 2025)",
     "approvedFor" : [
       "Road & RW",
       "Cross"
@@ -664,7 +664,7 @@
   },
   {
     "brand" : "ANTA",
-    "model" : "C202 6 (Valid: 28 JUN 2024 - 27 JUN 2025)",
+    "model" : "C202 6 (VALID: 28 JUN 2024 - 27 JUN 2025)",
     "approvedFor" : [
       "Road & RW",
       "Cross"
@@ -691,7 +691,7 @@
       "Road & RW",
       "Cross"
     ],
-    "model" : "C202 X9 DevShoe (Valid: 07 JAN 2024 - 06 JAN 2025)",
+    "model" : "C202 X9 DevShoe (VALID: 07 JAN 2024 - 06 JAN 2025)",
     "brand" : "ANTA"
   },
   {
@@ -703,7 +703,7 @@
     "brand" : "ANTA"
   },
   {
-    "model" : "TRACKEDGE LD (Valid: 28 JUN 2024 - 27 JUN 2025)",
+    "model" : "TRACKEDGE LD (VALID: 28 JUN 2024 - 27 JUN 2025)",
     "brand" : "ANTA",
     "approvedFor" : [
       "Track",
@@ -721,7 +721,7 @@
       "Cross"
     ],
     "brand" : "ANTA",
-    "model" : "TRACKEDGE SP (Valid: 28 JUN 2024 - 27 JUN 2025)"
+    "model" : "TRACKEDGE SP (VALID: 28 JUN 2024 - 27 JUN 2025)"
   },
   {
     "model" : "Other (older models)",
@@ -2119,25 +2119,6 @@
     ]
   },
   {
-    "brand" : "Decathlon",
-    "approvedFor" : [
-      "Road & RW",
-      "Cross"
-    ],
-    "model" : "KD900X LD+"
-  },
-  {
-    "brand" : "Decathlon",
-    "approvedFor" : [
-      "Track",
-      "Jumps",
-      "Throws",
-      "Road & RW",
-      "Cross"
-    ],
-    "model" : "Other (older models)"
-  },
-  {
     "approvedFor" : [
       "Track",
       "Jumps",
@@ -2228,14 +2209,6 @@
       "Road & RW",
       "Cross"
     ]
-  },
-  {
-    "approvedFor" : [
-      "Road & RW",
-      "Cross"
-    ],
-    "brand" : "Decathlon\/Kiprun",
-    "model" : "Kiprun_005_2024 (VALID: 31 DEC 2023 - 30 DEC 2024)"
   },
   {
     "brand" : "Decathlon\/Kiprun",
@@ -2939,7 +2912,7 @@
       "Road & RW",
       "Cross"
     ],
-    "model" : "AT X-COUNTRY VALID: 04 DEC 2024 - 03 DEC 2025"
+    "model" : "AT X-COUNTRY (VALID: 04 DEC 2024 - 03 DEC 2025)"
   },
   {
     "brand" : "Kiprun",
@@ -2948,6 +2921,14 @@
       "Cross"
     ],
     "model" : "KD900X.2"
+  },
+  {
+    "brand" : "Kiprun",
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ],
+    "model" : "KD900XLD+ (VALID: 21 DEC 2024 - 20 DEC 2025)"
   },
   {
     "brand" : "Kiprun",
@@ -4119,7 +4100,7 @@
     "model" : "WAVE REBELLION PRO 3 \/ BETA"
   },
   {
-    "model" : "WAVE REBELLION PRO LOW (Approved for use after 18 DEC 2024)",
+    "model" : "WAVE REBELLION PRO LOW",
     "brand" : "Mizuno",
     "approvedFor" : [
       "Road & RW",
