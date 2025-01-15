@@ -52,7 +52,7 @@
   },
   {
     "brand" : "361 Degrees",
-    "model" : "Furious 2 (VALID: 26\/06\/24 - 25\/06\/25)",
+    "model" : "Furious 2 (VALID: 26 JUN 2024 - 25 JUN 2025)",
     "approvedFor" : [
       "Road & RW",
       "Cross"
@@ -685,14 +685,6 @@
     ],
     "brand" : "ANTA",
     "model" : "C202 G9"
-  },
-  {
-    "approvedFor" : [
-      "Road & RW",
-      "Cross"
-    ],
-    "model" : "C202 X9 DevShoe (VALID: 07 JAN 2024 - 06 JAN 2025)",
-    "brand" : "ANTA"
   },
   {
     "model" : "Hai Lang",
@@ -1998,14 +1990,6 @@
       "Cross"
     ],
     "brand" : "Brooks",
-    "model" : "Hyperion Elite 4 RD.010 (VALID: 14 JAN 2024 - 13 JAN 2025)"
-  },
-  {
-    "approvedFor" : [
-      "Road & RW",
-      "Cross"
-    ],
-    "brand" : "Brooks",
     "model" : "Hyperion Elite 4 PB"
   },
   {
@@ -3002,7 +2986,7 @@
       "Road & RW",
       "Cross"
     ],
-    "model" : "FEIDIAN 5 CHALLENGER (Approved for use after 14 JAN 2025)",
+    "model" : "FEIDIAN 5 CHALLENGER",
     "brand" : "Li-Ning"
   },
   {
@@ -5606,6 +5590,14 @@
       "Road & RW",
       "Cross"
     ],
+    "model" : "Crossfox Nitro Elite (Approved for use after 31 JAN 2025)",
+    "brand" : "Puma"
+  },
+  {
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ],
     "model" : "Deviate Nitro",
     "brand" : "Puma"
   },
@@ -7445,7 +7437,7 @@
     ]
   },
   {
-    "model" : "FeiYing PB 5.0 (Approved for use after 11 JAN 2025)",
+    "model" : "FEIYING PB 5.0",
     "brand" : "Zhongqiao Sports_Qiaodan",
     "approvedFor" : [
       "Road & RW",
