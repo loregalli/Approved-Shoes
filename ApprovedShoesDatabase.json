@@ -5587,6 +5587,9 @@
   },
   {
     "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
       "Road & RW",
       "Cross"
     ],
