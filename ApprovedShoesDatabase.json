@@ -71,6 +71,14 @@
       "Road & RW",
       "Cross"
     ],
+    "model" : "Furious Future 2",
+    "brand" : "361 Degrees"
+  },
+  {
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ],
     "model" : "mironude",
     "brand" : "361 Degrees"
   },
@@ -83,6 +91,33 @@
       "Cross"
     ],
     "brand" : "361 Degrees",
+    "model" : "Other (older models)"
+  },
+  {
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ],
+    "brand" : "910 Nineten",
+    "model" : "Haze Pro"
+  },
+  {
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ],
+    "brand" : "910 Nineten",
+    "model" : "Geist Ekiden Pro (VALID: 19 MAR 2025 - 18 MAR 2026)"
+  },
+  {
+    "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ],
+    "brand" : "910 Nineten",
     "model" : "Other (older models)"
   },
   {
@@ -183,7 +218,7 @@
   },
   {
     "brand" : "Adidas",
-    "model" : "Adizero Adios Pro Evo 2 (VALID: 29 NOV 2024 - 28 NOV 2025)",
+    "model" : "Adizero Adios Pro Evo 2 (Approved for use after 25 APR 2025)",
     "approvedFor" : [
       "Road & RW",
       "Cross"
@@ -560,6 +595,17 @@
     ]
   },
   {
+    "model" : "Adizero TJ\/PV (2)",
+    "brand" : "Adidas",
+    "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ]
+  },
+  {
     "model" : "Adizero TJ\/PV (with orange sockliner)",
     "brand" : "Adidas",
     "approvedFor" : [
@@ -688,6 +734,14 @@
   },
   {
     "brand" : "ANTA",
+    "model" : "C202 6",
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ]
+  },
+  {
+    "brand" : "ANTA",
     "approvedFor" : [
       "Road & RW",
       "Cross"
@@ -798,6 +852,16 @@
   },
   {
     "model" : "Cyberblade 16",
+    "approvedFor" : [
+      "Track",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ],
+    "brand" : "Asics"
+  },
+  {
+    "model" : "CYBERBLADE 17",
     "approvedFor" : [
       "Track",
       "Throws",
@@ -925,6 +989,17 @@
     ]
   },
   {
+    "model" : "HEAT FLY 2",
+    "brand" : "Asics",
+    "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ]
+  },
+  {
     "approvedFor" : [
       "Track",
       "Jumps",
@@ -933,6 +1008,17 @@
       "Cross"
     ],
     "model" : "HEAT THROW",
+    "brand" : "Asics"
+  },
+  {
+    "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ],
+    "model" : "HEAT THROW 2",
     "brand" : "Asics"
   },
   {
@@ -1535,24 +1621,24 @@
     ]
   },
   {
+    "model" : "MS LD LE 2 (VALID: 10 FEB 2025 - 09 FEB 2026)",
     "approvedFor" : [
       "Track",
       "Jumps",
       "Throws",
       "Road & RW",
       "Cross"
-    ],
-    "model" : "MS LD 2 (VALID: 29 FEB 2024 - 28 FEB 2025)",
+    ]
     "brand" : "Asics"
   },
   {
+    "model" : "MS SP2 F (VALID: 10 FEB 2025 - 09 FEB 2026)",
     "approvedFor" : [
       "Track",
       "Throws",
       "Road & RW",
       "Cross"
-    ],
-    "model" : "MS SP2 TYPE-B (VALID: 29 FEB 2024 - 28 FEB 2025)",
+    ]
     "brand" : "Asics"
   },
   {
@@ -1718,6 +1804,16 @@
       "Road & RW",
       "Cross"
     ]
+  },
+  {
+    "approvedFor" : [
+      "Track",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ],
+    "model" : "SP BLADE 10",
+    "brand" : "Asics"
   },
   {
     "approvedFor" : [
@@ -1983,6 +2079,14 @@
     ]
   },
   {
+    "model" : "Hyperion 2",
+    "brand" : "Brooks",
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ]
+  },
+  {
     "model" : "Hyperion Elite 2",
     "brand" : "Brooks",
     "approvedFor" : [
@@ -2013,22 +2117,6 @@
     ],
     "brand" : "Brooks",
     "model" : "Hyperion Elite 4 PB"
-  },
-  {
-    "brand" : "Brooks",
-    "model" : "Hyperion Elite 5 R1.A (VALID: 12 APR 2024 - 11 APR 2025)",
-    "approvedFor" : [
-      "Road & RW",
-      "Cross"
-    ]
-  },
-  {
-    "brand" : "Brooks",
-    "model" : "Hyperion Elite 5 R1.B (VALID: 12 APR 2024 - 11 APR 2025)",
-    "approvedFor" : [
-      "Road & RW",
-      "Cross"
-    ]
   },
   {
     "approvedFor" : [
@@ -2311,6 +2399,14 @@
     "model" : "DELTAPRO AERO SPRINT"
   },
   {
+    "brand" : "Descente",
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ],
+    "model" : "DELTAPRO EXP V3 (VALID: 01 APR 2025 - 31 MAR 2026)"
+  },
+  {
     "model" : "Genten RC",
     "brand" : "Descente",
     "approvedFor" : [
@@ -2420,6 +2516,14 @@
     "brand" : "Diadora"
   },
   {
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ],
+    "model" : "GCPR26 (VALID: 14 APR 2025 - 13 APR 2026)",
+    "brand" : "Diadora"
+  },
+  {
     "brand" : "Diadora",
     "approvedFor" : [
       "Track",
@@ -2429,6 +2533,16 @@
       "Cross"
     ],
     "model" : "Lungo Carbon W"
+  },
+  {
+    "approvedFor" : [
+      "Track",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ],
+    "model" : "MFPR25 (VALID: 24 FEB 2025 - 23 FEB 2026)",
+    "brand" : "Diadora"
   },
   {
     "approvedFor" : [
@@ -2469,6 +2583,33 @@
       "Road & RW",
       "Cross"
     ]
+  },
+  {
+    "brand" : "Erke",
+    "model" : "INFINITE2.0",
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ]
+  },
+  {
+    "brand" : "Erke",
+    "model" : "INFINITE3.0 (VALID: 26 FEB 2025 - 25 FEB 2026)",
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ]
+  },
+  {
+    "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ],
+    "brand" : "Erke",
+    "model" : "Other (older models)"
   },
   {
     "brand" : "Erke (Hongxing)",
@@ -2699,6 +2840,9 @@
     "brand" : "HokaONeOne",
     "model" : "Cielo FLYX Elite (VALID: 30 JAN 2025 - 29 JAN 2026)",
     "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
       "Road & RW",
       "Cross"
     ]
@@ -2706,6 +2850,9 @@
   {
     "brand" : "HokaONeOne",
     "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
       "Road & RW",
       "Cross"
     ],
@@ -2715,6 +2862,9 @@
     "model" : "Cielo MD",
     "brand" : "HokaONeOne",
     "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
       "Road & RW",
       "Cross"
     ]
@@ -2729,6 +2879,9 @@
   },
   {
     "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
       "Road & RW",
       "Cross"
     ],
@@ -2770,6 +2923,9 @@
   {
     "brand" : "HokaONeOne",
     "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
       "Road & RW",
       "Cross"
     ],
@@ -2778,6 +2934,17 @@
   {
     "brand" : "HokaONeOne",
     "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ],
+    "model" : "HOKA CLIFTON 10 (Approved for use after 14 MAY 2025)"
+  },
+  {
+    "brand" : "HokaONeOne",
+    "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
       "Road & RW",
       "Cross"
     ],
@@ -2810,6 +2977,7 @@
   {
     "approvedFor" : [
       "Track",
+      "Throws",
       "Road & RW",
       "Cross"
     ],
@@ -2820,6 +2988,7 @@
     "model" : "Rocket MD",
     "approvedFor" : [
       "Track",
+      "Throws",
       "Road & RW",
       "Cross"
     ],
@@ -2828,6 +2997,14 @@
   {
     "brand" : "HokaONeOne",
     "model" : "Rocket X",
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ]
+  },
+  {
+    "brand" : "HokaONeOne",
+    "model" : "Rocket X 3 (VALID: 07 APR 2025 - 06 APR 2026)",
     "approvedFor" : [
       "Road & RW",
       "Cross"
@@ -2844,6 +3021,9 @@
   {
     "model" : "Speed Evo R",
     "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
       "Road & RW",
       "Cross"
     ],
@@ -2852,6 +3032,9 @@
   {
     "model" : "Tracer 2",
     "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
       "Road & RW",
       "Cross"
     ],
@@ -2921,6 +3104,17 @@
     "brand" : "Joma"
   },
   {
+    "model" : "R1200 V2",
+    "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ],
+    "brand" : "Joma"
+  },
+  {
     "brand" : "Joma",
     "model" : "R3000 V2",
     "approvedFor" : [
@@ -2937,6 +3131,14 @@
     "model" : "R5000"
   },
   {
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ],
+    "brand" : "Joma",
+    "model" : "R9000 (VALID: 26 FEB 2025 - 25 FEB 2026)"
+  },
+  {
     "brand" : "Joma",
     "approvedFor" : [
       "Track",
@@ -2946,6 +3148,16 @@
       "Cross"
     ],
     "model" : "Other (older models)"
+  },
+  {
+    "brand" : "Kiprun",
+    "approvedFor" : [
+      "Track",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ],
+    "model" : "AT MID (VALID: 12 MAR 2025 - 11 MAR 2026)"
   },
   {
     "brand" : "Kiprun",
@@ -2972,7 +3184,23 @@
       "Road & RW",
       "Cross"
     ],
-    "model" : "KD900XLD+ (VALID: 21 DEC 2024 - 20 DEC 2025)"
+    "model" : "KD900XLD.2"
+  },
+  {
+    "brand" : "Kiprun",
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ],
+    "model" : "KD900XLD+"
+  },
+  {
+    "brand" : "Kiprun",
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ],
+    "model" : "KDIIII (VALID: 27 FEB 2025 - 26 FEB 2026)"
   },
   {
     "brand" : "Kiprun",
@@ -3075,14 +3303,6 @@
       "Cross"
     ],
     "brand" : "Li-Ning"
-  },
-  {
-    "brand" : "Lululemon",
-    "approvedFor" : [
-      "Road & RW",
-      "Cross"
-    ],
-    "model" : "Dev Shoe 030824 (VALID: 28 FEB 2024 - 27 FEB 2025)"
   },
   {
     "model" : "W Beyondfeel Run",
@@ -3218,6 +3438,16 @@
     "model" : "CHRONO INX JAPAN"
   },
   {
+    "model" : "CHRONO INX NEO",
+    "brand" : "Mizuno",
+    "approvedFor" : [
+      "Track",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ]
+  },
+  {
     "model" : "CHRONO INX NEO JAPAN",
     "brand" : "Mizuno",
     "approvedFor" : [
@@ -3304,6 +3534,22 @@
     "brand" : "Mizuno"
   },
   {
+    "model" : "DEV-WRE (VALID: 19 FEB 2025 - 18 FEB 2026)",
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ],
+    "brand" : "Mizuno"
+  },
+  {
+    "model" : "DEV-WRZ (VALID: 19 FEB 2025 - 18 FEB 2026)",
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ],
+    "brand" : "Mizuno"
+  },
+  {
     "model" : "DIST Special",
     "brand" : "Mizuno",
     "approvedFor" : [
@@ -3341,6 +3587,17 @@
     "brand" : "Mizuno"
   },
   {
+    "model" : "DUEL SONIC 4 / WIDE",
+    "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ],
+    "brand" : "Mizuno"
+  },
+  {
     "model" : "Ekiden Spirit",
     "approvedFor" : [
       "Track",
@@ -3353,7 +3610,7 @@
   },
   {
     "brand" : "Mizuno",
-    "model" : "Field Geo AJ",
+    "model" : "Field Geo AJ-C",
     "approvedFor" : [
       "Track",
       "Jumps",
@@ -3481,7 +3738,7 @@
     ]
   },
   {
-    "model" : "Field Geo RD",
+    "model" : "Field Geo RD-C",
     "approvedFor" : [
       "Track",
       "Jumps",
@@ -3994,6 +4251,14 @@
       "Cross"
     ],
     "brand" : "Mizuno",
+    "model" : "WAVE DUEL 4"
+  },
+  {
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ],
+    "brand" : "Mizuno",
     "model" : "Wave Duel Gtz"
   },
   {
@@ -4251,6 +4516,17 @@
   {
     "brand" : "Mizuno",
     "model" : "X Blast Next",
+    "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ]
+  },
+  {
+    "brand" : "Mizuno",
+    "model" : "X FIRST 3 / WIDE",
     "approvedFor" : [
       "Track",
       "Jumps",
@@ -4834,14 +5110,6 @@
     "brand" : "Nike"
   },
   {
-    "model" : "Dev 15 (VALID: 03 MAR 2024 - 02 MAR 2025)",
-    "brand" : "Nike",
-    "approvedFor" : [
-      "Road & RW",
-      "Cross"
-    ]
-  },
-  {
     "model" : "Dev 16E (VALID: 20 SEP 2024 - 19 SEP 2025)",
     "approvedFor" : [
       "Road & RW",
@@ -4971,6 +5239,14 @@
       "Road & RW",
       "Cross"
     ],
+    "model" : "Pegasus Plus",
+    "brand" : "Nike"
+  },
+  {
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ],
     "brand" : "Nike",
     "model" : "Pegasus Turbo 2"
   },
@@ -5031,6 +5307,47 @@
   },
   {
     "brand" : "Nike",
+    "model" : "Rival Throw (VALID: 11 FEB 2025 - 10 FEB 2026)",
+    "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ]
+  },
+  {
+    "brand" : "Nike",
+    "model" : "Rotational 7 (VALID: 11 FEB 2025 - 10 FEB 2026)",
+    "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ]
+  },
+  {
+    "brand" : "Nike",
+    "model" : "SD5 (VALID: 14 FEB 2025 - 13 FEB 2026)",
+    "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ]
+  },
+  {
+    "brand" : "Nike",
+    "model" : "Streakfly 2",
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ]
+  },
+  {
+    "brand" : "Nike",
     "model" : "Triple Jump Elite",
     "approvedFor" : [
       "Track",
@@ -5050,6 +5367,14 @@
       "Cross"
     ],
     "model" : "Triple Jump Elite 3"
+  },
+  {
+    "brand" : "Nike",
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ],
+    "model" : "Vaporfly 4"
   },
   {
     "brand" : "Nike",
@@ -5430,14 +5755,6 @@
     "brand" : "On"
   },
   {
-    "brand" : "On",
-    "approvedFor" : [
-      "Road & RW",
-      "Cross"
-    ],
-    "model" : "Cloudboom 4 Dev (VALID: 07 MAR 2024 - 02 MAR 2025)"
-  },
-  {
     "model" : "Cloudboom Echo",
     "brand" : "On",
     "approvedFor" : [
@@ -5462,36 +5779,12 @@
     "model" : "Cloudboom Strike"
   },
   {
-    "approvedFor" : [
-      "Road & RW",
-      "Cross"
-    ],
-    "brand" : "On",
-    "model" : "Cloudboom Strike Dev (VALID: 07 MAR 2024 - 02 MAR 2025)"
-  },
-  {
     "model" : "Cloudboom Strike LS",
     "approvedFor" : [
       "Road & RW",
       "Cross"
     ],
     "brand" : "On"
-  },
-  {
-    "approvedFor" : [
-      "Road & RW",
-      "Cross"
-    ],
-    "brand" : "On",
-    "model" : "Cloudboom Strike LS Dev1 (VALID: 11 APR 2024 - 10 APR 2025)"
-  },
-  {
-    "approvedFor" : [
-      "Road & RW",
-      "Cross"
-    ],
-    "brand" : "On",
-    "model" : "Cloudboom Strike LS Dev1.2 (VALID: 11 APR 2024 - 10 APR 2025)"
   },
   {
     "brand" : "On",
@@ -5518,6 +5811,27 @@
     ],
     "brand" : "On",
     "model" : "Cloudspike 1500m"
+  },
+  {
+    "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ],
+    "brand" : "On",
+    "model" : "Cloudspike Amplius 2"
+  },
+  {
+    "approvedFor" : [
+      "Track",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ],
+    "brand" : "On",
+    "model" : "Cloudspike Citius 2"
   },
   {
     "model" : "Cloudspike Dev 3 (VALID: 25 NOV 2024 - 24 NOV 2025)",
@@ -5553,6 +5867,16 @@
   },
   {
     "model" : "Cloudspike Sprint 2",
+    "approvedFor" : [
+      "Track",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ],
+    "brand" : "On"
+  },
+  {
+    "model" : "CLOUDSPIKE SPRINT V",
     "approvedFor" : [
       "Track",
       "Throws",
@@ -5605,6 +5929,14 @@
       "Cross"
     ],
     "brand" : "Ortuseight",
+    "model" : "Hypersonic 2.0"
+  },
+  {
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ],
+    "brand" : "Ortuseight",
     "model" : "Solar"
   },
   {
@@ -5629,6 +5961,22 @@
   {
     "brand" : "PEAK",
     "model" : "PEAK UP30 3.0 ELITE",
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ]
+  },
+  {
+    "brand" : "PEAK",
+    "model" : "PEAK UP30 4.0 ELITE PROTOTYPE (VALID: 12 FEB 2025 - 11 FEB 2026)",
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ]
+  },
+  {
+    "brand" : "PEAK",
+    "model" : "PEAK UP30 4.0 PRO PROTOTYPE V2 (VALID: 13 MAR 2025 - 12 MAR 2026)",
     "approvedFor" : [
       "Road & RW",
       "Cross"
@@ -5723,16 +6071,6 @@
     ]
   },
   {
-    "model" : "evoSPEED Berserker Nitro Elite - DEV (VALID: 12 APR 2024 - 11 APR 2025)",
-    "brand" : "Puma",
-    "approvedFor" : [
-      "Track",
-      "Throws",
-      "Road & RW",
-      "Cross"
-    ]
-  },
-  {
     "approvedFor" : [
       "Track",
       "Jumps",
@@ -5805,16 +6143,6 @@
     ],
     "brand" : "Puma",
     "model" : "evoSPEED FortePro Nitro Elite"
-  },
-  {
-    "model" : "evoSPEED FortePro Nitro Elite - DEV (VALID: 12 APR 2024 - 11 APR 2025)",
-    "brand" : "Puma",
-    "approvedFor" : [
-      "Track",
-      "Throws",
-      "Road & RW",
-      "Cross"
-    ]
   },
   {
     "model" : "evoSPEED Haraka 2",
@@ -5947,17 +6275,6 @@
     ],
     "model" : "evoSPEED Naio Jump Nitro Elite",
     "brand" : "Puma"
-  },
-  {
-    "approvedFor" : [
-      "Track",
-      "Jumps",
-      "Throws",
-      "Road & RW",
-      "Cross"
-    ],
-    "brand" : "Puma",
-    "model" : "evoSPEED Naio Jump Nitro Elite - DEV (VALID: 10 APR 2024 - 09 APR 2025)"
   },
   {
     "approvedFor" : [
@@ -6216,12 +6533,39 @@
     "brand" : "Puma"
   },
   {
+    "model" : "FAST-R Nitro Elite 3",
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ],
+    "brand" : "Puma"
+  },
+  {
+    "model" : "FAST-R Nitro Elite 3 - DEV (VALID: 11 APR 2025 - 10 APR 2026)",
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ],
+    "brand" : "Puma"
+  },
+  {
     "approvedFor" : [
       "Road & RW",
       "Cross"
     ],
     "brand" : "Puma",
     "model" : "Liberate Nitro"
+  },
+  {
+    "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ],
+    "brand" : "Puma",
+    "model" : "Propio Nitro"
   },
   {
     "model" : "Speed 100 R Ignite 2",
@@ -6917,6 +7261,33 @@
     "model" : "Other (older models)"
   },
   {
+    "brand" : "Tracksmith Corporation",
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ],
+    "model" : "Eliot Racer"
+  },
+  {
+    "brand" : "Tracksmith Corporation",
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ],
+    "model" : "Racer Dev6 (VALID: 13 FEB 2025 - 12 FEB 2026)"
+  },
+  {
+    "brand" : "Tracksmith Corporation",
+    "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ],
+    "model" : "Other (older models)"
+  },
+  {
     "model" : "Centric Grip",
     "approvedFor" : [
       "Track",
@@ -7099,6 +7470,16 @@
   },
   {
     "brand" : "Under Armour",
+    "model" : "UA Shakedown Elite 3.5 MD DEV (VALID: 12 FEB 2025 - 11 FEB 2026)",
+    "approvedFor" : [
+      "Track",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ]
+  },
+  {
+    "brand" : "Under Armour",
     "model" : "UA U Silencer 2",
     "approvedFor" : [
       "Track",
@@ -7136,14 +7517,6 @@
       "Cross"
     ],
     "brand" : "Under Armour"
-  },
-  {
-    "brand" : "Under Armour",
-    "model" : "Velociti Racer 2 (VALID: 29 FEB 2024 - 28 FEB 2025)",
-    "approvedFor" : [
-      "Road & RW",
-      "Cross"
-    ]
   },
   {
     "model" : "Velociti Wind",
@@ -7206,6 +7579,45 @@
       "Cross"
     ],
     "brand" : "Velaasa",
+    "model" : "Other (older models)"
+  },
+  {
+    "approvedFor" : [
+      "Road & RW",
+      "Cross"
+    ],
+    "brand" : "Volanti",
+    "model" : "Racing Sun"
+  },
+  {
+    "approvedFor" : [
+      "Track",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ],
+    "brand" : "Volanti",
+    "model" : "Rocket Air Ultrasonic Diamond"
+  },
+  {
+    "approvedFor" : [
+      "Track",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ],
+    "brand" : "Volanti",
+    "model" : "Volanti Rocket Air Track Shoes"
+  },
+  {
+    "approvedFor" : [
+      "Track",
+      "Jumps",
+      "Throws",
+      "Road & RW",
+      "Cross"
+    ],
+    "brand" : "Volanti",
     "model" : "Other (older models)"
   },
   {
@@ -7522,7 +7934,7 @@
       "Road & RW",
       "Cross"
     ],
-    "model" : "FEIYING PLAID 2.0 (VALID: 27 NOV 2024 - 26 NOV 2025)"
+    "model" : "FEIYING PLAID 2.0"
   },
   {
     "model" : "QING HONG",
