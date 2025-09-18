@@ -11,7 +11,7 @@ Approved Shoes solves this by providing:
 - 🏟️ **Field-ready tool** to make officials’ work more efficient  
 
 ## 🚀 Functionality
-The mobile app, instead, uses a non-relational JSON file as a DataBase to handle data queries. JSON was chosen over a database because the dataset is relatively small and doesn’t require complex queries.
+The mobile app uses a non-relational JSON file as a DataBase to handle data queries. JSON was chosen over a database because the dataset is relatively small and doesn’t require complex queries.
 This choice was made for simplicity, portability, speed and flexibility. For larger datasets or more advanced queries, a relational database (e.g., SQLite) would be more suitable.
 
 The Python interface, instead, is built on an SQLite database, which is queried instantly when the user makes a selection from the drop-down menu. This choice was made to try both possibilities.
